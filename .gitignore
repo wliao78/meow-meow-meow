@@ -1,0 +1,16 @@
+Build/
+DeviceBuild*/
+DerivedData/
+*.xcresult
+xcuserdata/
+*.xcuserstate
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.p12
+*.mobileprovision
+*.pem
+*.key
+*.log
